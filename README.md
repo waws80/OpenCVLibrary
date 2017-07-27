@@ -1,4 +1,4 @@
-# OpenCVLibrar
+# OpenCVLibrary
 
 [![](https://jitpack.io/v/waws80/OpenCVLibrary.svg)](https://jitpack.io/#waws80/OpenCVLibrary)
 
